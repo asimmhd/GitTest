@@ -6,10 +6,16 @@
 
 1. [Abstract](#abstract)
 2. [Introduction](#introduction)
-        *project description
-        *objective
-        *scope
+    * project description
+    * objective
+    * scope
 3. System Analysis
+    * Existing System
+    * Proposed system
+4. System Design
+   * DFD
+   * ER diagram
+   * UML diagrams
 4. [References](#references)
 5 .[Bullet Points](#bullet-points)
 
