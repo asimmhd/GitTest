@@ -4,7 +4,7 @@
 
 ## Table of Content
 
-[Introduction](#introduction)
+[Introduction](#introduction)\n
 [Intended Audience](#intended-audience)
 [References](#references)
 [Bullet Points](#bullet-points)
