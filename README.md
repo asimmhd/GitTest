@@ -4,10 +4,10 @@
 
 ## Table of Content
 
-[Introduction](#introduction)\n
-[Intended Audience](#intended-audience)
-[References](#references)
-[Bullet Points](#bullet-points)
+1. [Introduction](#introduction)\n
+* [Intended Audience](#intended-audience)
+3. [References](#references)
+* [Bullet Points](#bullet-points)
 
 
 
