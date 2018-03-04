@@ -35,6 +35,8 @@ Some text
 Test Description
 
 
+## uml diagrams
+![sequence](https://github.com/C:\Users\Nitesh\Downloads\sequence.jpg)
 
 ## References
 
