@@ -36,7 +36,7 @@ Test Description
 
 
 ## uml diagrams
-![sequence](https:C:/download.jpg)
+![sequence](https://C:/download.jpg)
 
 ## References
 
