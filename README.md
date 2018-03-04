@@ -36,7 +36,7 @@ Test Description
 
 
 ## uml diagrams
-![sequence](https://github.com/C:\Users\Nitesh\Downloads\sequence.jpg)
+![sequence](https://github.com/asimmhd/GitTest/blob/master/Downloads/sequence.jpg)
 
 ## References
 
