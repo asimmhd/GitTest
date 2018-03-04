@@ -36,7 +36,7 @@ Test Description
 
 
 ## uml diagrams
-![sequence](https://github.com/asimmhd/GitTest/blob/master/images/sequence.jpg)
+![sequence](https://github.com/asimmhd/GitTest/blob/master/images/sequence.PNG)
 
 ## References
 
