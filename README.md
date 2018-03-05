@@ -40,6 +40,9 @@ Test Description
 ![sequence](https://github.com/asimmhd/GitTest/blob/master/images/sequence1.jpg)
 ## usecase diagram
 ![usecase](https://github.com/asimmhd/GitTest/blob/master/images/usecase1.jpg)
+## activity diagram
+![activity](https://github.com/asimmhd/GitTest/blob/master/images/activity1.jpg)
+
 ## References
 
 1. https://google.com
