@@ -36,6 +36,15 @@ Test Description
 ## ER_diagram
 ![ER-diagram](https://github.com/asimmhd/GitTest/blob/master/images/ERdiagram.png)
 
+## uml diagrams
+## data flow diagram
+![dfd](https://github.com/asimmhd/GitTest/blob/master/images/dfd.PNG)
+## sequence diagram
+![sequence](https://github.com/asimmhd/GitTest/blob/master/images/sequence1.jpg)
+## usecase diagram
+![usecase](https://github.com/asimmhd/GitTest/blob/master/images/usecase1.jpg)
+## activity diagram
+![activity](https://github.com/asimmhd/GitTest/blob/master/images/activity1.jpg)
 
 ## References
 
