@@ -33,7 +33,8 @@ Some text
 ### Intended audience
 
 Test Description
-
+## ER_diagram
+![ER-diagram](https://github.com/asimmhd/GitTest/blob/master/images/ERdiagram.png)
 
 
 ## References
