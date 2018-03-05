@@ -39,7 +39,7 @@ Test Description
 ## data flow diagram
 ![dfd](https://github.com/asimmhd/GitTest/blob/master/images/dfd.PNG)
 ## ER_diagram
-![ER-diagram](https://github.com/asimmhd/GitTest/blob/master/images/ERdiagram.png)
+![ER-diagram](https://github.com/asimmhd/GitTest/blob/master/images/erd.png)
 ## sequence diagram
 ![sequence](https://github.com/asimmhd/GitTest/blob/master/images/sequence1.jpg)
 ## usecase diagram
