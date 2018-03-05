@@ -37,8 +37,8 @@ Test Description
 
 ## uml diagrams
 ## sequence diagram
-![sequence](https://github.com/asimmhd/GitTest/blob/master/images/sequence.eddx)
-)
+![sequence](https://github.com/asimmhd/GitTest/blob/master/images/Sequence Diagram1.jpg)
+
 
 ## References
 
