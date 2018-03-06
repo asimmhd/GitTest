@@ -44,7 +44,7 @@ Test Description
 
 ## uml diagrams
 ## data flow diagram
-![dfd](https://github.com/asimmhd/GitTest/blob/master/images/data.png)
+![dfd](https://github.com/asimmhd/GitTest/blob/master/images/data.PNG)
 ## ER_diagram
 ![ER-diagram](https://github.com/asimmhd/GitTest/blob/master/images/er4.png)
 ## sequence diagram
