@@ -52,7 +52,7 @@ Test Description
 ## usecase diagram
 ![usecase](https://github.com/asimmhd/GitTest/blob/master/images/modiusecase.jpg)
 ## activity diagram
-![activity](https://github.com/asimmhd/GitTest/blob/master/images/activity1.jpg)
+![activity](https://github.com/asimmhd/GitTest/blob/master/images/activity.jpg)
 
 ## References
 
