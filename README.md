@@ -46,7 +46,7 @@ Test Description
 ## data flow diagram
 ![dfd](https://github.com/asimmhd/GitTest/blob/master/images/modi.PNG)
 ## ER_diagram
-![ER-diagram](https://github.com/asimmhd/GitTest/blob/master/images/er4.png)
+![ER-diagram](https://github.com/asimmhd/GitTest/blob/master/images/er5.png)
 ## sequence diagram
 ![sequence](https://github.com/asimmhd/GitTest/blob/master/images/modisequence.jpg)
 ## usecase diagram
