@@ -7,9 +7,9 @@
 1. [Abstract](#abstract)
 2. [Introduction](#introduction)
     
-3. [System Analysis](#systemAnalysis)
-    * [Existing System](#Existingsystem)
-    * [Poposed system][#Poposedsystem]
+3. [System Analysis](#system Analysis)
+    * [Existing System](#Existing System)
+    * [Proposed system][#Proposed system]
 
 4. System Design
    * DFD
@@ -41,10 +41,10 @@ To develop WebApp application for a retail customer hosting his content for cons
 
 ## SystemAnalysis
 
-## Existingsystem
+## Existing System
 .   Involves only simple web hosting portal without payment gateway and comparative analysis engine.
 .   It displays only contact information about client and business is teken place manually
-## Poposedsystem
+## Proposed system
 .   To build webApp development involving comparative analysisi.ie (where the price of products are compared with e-commerce site)by using AWS technology
 .   To display the results of comparing as per requirements.
 
