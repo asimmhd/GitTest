@@ -7,9 +7,9 @@
 1. [Abstract](#abstract)
 2. [Introduction](#introduction)
     
-3. [System Analysis](#System Analysis)
-    * [Existing System](#Existing System)
-    * [Proposed system](#Proposed system)
+3. [System Analysis](#system Analysis)
+    * [Existing System](#existing system)
+    * [Proposed system](#proposed system)
 4. System Design
    * DFD
    * ER diagram
