@@ -7,9 +7,9 @@
 1. [Abstract](#abstract)
 2. [Introduction](#introduction)
     
-3. [System Analysis](#system analysis)
-    * [Existing System](#existing system)
-    * [Proposed system](#proposed system)
+3. [Systemanalysis](#systemanalysis)
+    * [Existingsystem](#existingsystem)
+    * [Proposedsystem](#proposedsystem)
 
 4. System Design
    * DFD
@@ -39,13 +39,13 @@
 ## Scope
 To develop WebApp application for a retail customer hosting his content for consumer products and design a landscape which is flexible to withhold the load on the Infrastructure during peak hours of the business. Also involves implementing the objectives mentioned above to sustain the current market trends
 
-## System Analysis
+## Systemanalysis
 
-## Existing System
+## Existingsystem
 .   Involves only simple web hosting portal without payment gateway and comparative analysis engine.
 .   It displays only contact information about client and business is teken place manually
-## Proposed system
-.   To build webApp development involving comparative analysisi.ie (where the price of products are compared with e-commerce site)by using AWS technology
+## Proposedsystem
+.   To build webApp development involving comparative analysis. ie (where the price of products are compared with e-commerce site)by using AWS technology
 .   To display the results of comparing as per requirements.
 
 ### Intended audience
