@@ -10,19 +10,20 @@
 3. [Systemanalysis](#systemanalysis)
     * [Existingsystem](#existingsystem)
     * [Proposedsystem](#proposedsystem)
+4. [HardwareAndSoftwareSpecification](#HardwareAndSoftwareSpecification)    
 
-4. System Design
+5. System Design
    * DFD
    * ER diagram
    * UML diagrams
-5. Implementation
+6. Implementation
     * codes
     * screenshorts
-6. Testing
+7. Testing
     * UAT(user acceptance testing):test cases
     * SAT(system acceptance testing):test cases
-7. Future Enhancement
-8. References
+8. Future Enhancement
+9. References
 
 
 ## Abstract
@@ -39,6 +40,23 @@
 ## Scope
 To develop WebApp application for a retail customer hosting his content for consumer products and design a landscape which is flexible to withhold the load on the Infrastructure during peak hours of the business. Also involves implementing the objectives mentioned above to sustain the current market trends
 
+## HardwareAndSoftwareSpecification
+
+Minimum Hardware Requirement:
+.  Operating System:Windows server R2 Edition-2016
+.  CPU:4core
+.  Memory:16GB
+.  Storage:500GB(Ephermal)
+.  .NET Version:.NET 4.5+NET3.5(added via system roles)
+.  AWS-Region:Oregon(US West Region)
+
+Software Requirement:
+.  Magento:E-commerce Platform(Front end)
+.  MySql:Database(Backend)
+.  Swagger:API Development Framework
+.  PHP:Programming language
+.  XML/HTML:Pages enabled for catalog creation/upload
+.  Web Proxy:Enablement gateway for payment process
 ## Systemanalysis
 
 ## Existingsystem
