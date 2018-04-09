@@ -35,7 +35,7 @@
     grid-column-start:1;
     grid-column-end:3;
     grid-row-start:2;
-    grid-row-end:5;
+    grid-row-end:4;
 }
 .sales{
     background:violet;
@@ -58,20 +58,19 @@
     grid-column-start:3;
     grid-column-end:5;
     grid-row-start:3;
-    grid-row-end:5;
+    grid-row-end:4;
 }
-.average{
+.Average{
     background:rosybrown;
     grid-column-start:1;
-    grid-column-end:5;
-    grid-row-start:3;
-    grid-row-end:4;
-
+    grid-column-end:3;
+    grid-row-start:4;
+    grid-row-end:5;
 }
 .comparitive{
     background:rosybrown;
-    grid-column-start:1;
+    grid-column-start:3;
     grid-column-end:5;
     grid-row-start:4;
-    grid-row-end:5;
+    grid-row-end:7;
 }
